@@ -18,11 +18,9 @@ I build Android apps and developer tools, working alongside AI as a co-pilot. I 
 
 ## ✦ Projects
 
-**[Prism](https://github.com/ayush04-op/PrismClient)**
-A native Android Telegram client with a cream, editorial *Paper* theme, custom typography, and optional liquid glass.
+**[Prism](https://github.com/ayush04-op/PrismClient)** — a native Android Telegram client with a cream, editorial *Paper* theme, custom typography, and optional liquid glass.
 
-**[Facet](https://github.com/ayush04-op/Facet)**
-A fast, privacy-focused, minimal browser for Android, built on GeckoView. Open source, with a Windows version following.
+**[Facet](https://github.com/ayush04-op/Facet)** — a fast, privacy-focused, minimal browser for Android, built on GeckoView. Open source, with a Windows version following.
 
 ## ✦ Toolbox
 
@@ -41,10 +39,8 @@ A fast, privacy-focused, minimal browser for Android, built on GeckoView. Open s
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=ayush04-op&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&icon_color=A0522D&border_color=D9CBB0" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayush04-op&layout=compact&hide_border=false&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&border_color=D9CBB0" />
-
-<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=ayush04-op&hide_border=false&background=F5EFE0&border=D9CBB0&ring=A0522D&fire=C0562B&currStreakNum=3B2F2F&sideNums=3B2F2F&currStreakLabel=7A4E2D&sideLabels=7A4E2D&dates=8A7A66" />
+<img width="48%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=ayush04-op&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&icon_color=A0522D&border_color=D9CBB0" />
+<img width="48%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayush04-op&layout=compact&hide_border=false&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&border_color=D9CBB0" />
 
 </div>
 
