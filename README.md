@@ -39,8 +39,8 @@ I build Android apps and developer tools, working alongside AI as a co-pilot. I 
 
 <div align="center">
 
-<img width="48%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=ayush04-op&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&icon_color=A0522D&border_color=D9CBB0" />
-<img width="48%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayush04-op&layout=compact&hide_border=false&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&border_color=D9CBB0" />
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=ayush04-op&show_icons=true&include_all_commits=true&count_private=true&line_height=20&card_width=400&border_radius=6&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&icon_color=A0522D&border_color=D9CBB0" />
+<img width="49%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayush04-op&layout=compact&card_width=400&border_radius=6&bg_color=F5EFE0&title_color=7A4E2D&text_color=3B2F2F&border_color=D9CBB0" />
 
 </div>
 
